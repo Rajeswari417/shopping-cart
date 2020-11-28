@@ -1,0 +1,42 @@
+
+N
+java:S1128!"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8—¶¨„ß.
+X	java:S110$"<This class has 9 parents which is greater than 5 authorized.(²Ú±Ž8Ð©º€ß.
+\
+java:S18745":Remove this use of "ViewModelProviders"; it is deprecated.(ØÔâ‘þÿÿÿÿ8Ð©º€ß.
+L
+java:S18745"*Remove this use of "of"; it is deprecated.(ØÔâ‘þÿÿÿÿ8Ð©º€ß.
+K
+java:S1481W")Remove this unused "view" local variable.(–„¢»ùÿÿÿÿ8ûÞÌ€ß.
+
+java:S1450*"dRemove the "shoppingCartViewModel" field and declare it as a local variable in the relevant methods.(Þ‚œÒ8½Ž¼€ß.
+ˆ
+java:S1450)"kRemove the "shoppingCartViewModelFactory" field and declare it as a local variable in the relevant methods.(¤™ìÊ8Ð©º€ß.
+Z
+java:S1128"8Remove this unused import 'com.google.gson.GsonBuilder'.(”«à¬ÿÿÿÿÿ8æþû€ß.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Ð©º€ß.
+T
+java:S1128 "2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8×žŒ†ß.
+`
+java:S1128">Remove this unused import 'androidx.lifecycle.LifecycleOwner'.(žØƒ»ýÿÿÿÿ8Ð©º€ß.
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8æþû€ß.
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8æþû€ß.
+H
+java:S1481]"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8ûÞÌ€ß.
+E
+java:S16048"(Make this anonymous inner class a lambda(ÔÐ«¥8×‰ß.
+V
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8Ð©º€ß.
+Z
+java:S1854W"8Remove this useless assignment to local variable "view".(–„¢»ùÿÿÿÿ8ûÞÌ€ß.
+Y
+java:S1128"7Remove this unused import 'android.widget.FrameLayout'.(ºÍ‹Ùúÿÿÿÿ8Ð©º€ß.
+O
+java:S1128"2Remove this unused import 'android.os.Parcelable'.(õÃÀ­8´Òªƒß.
+P
+java:S1068'".Remove this unused "customMenu" private field.(©ÝÐ³üÿÿÿÿ8Ð©º€ß.
+`
+java:S1128">Remove this unused import 'androidx.core.view.MenuItemCompat'.(š×è þÿÿÿÿ8Ð©º€ß.

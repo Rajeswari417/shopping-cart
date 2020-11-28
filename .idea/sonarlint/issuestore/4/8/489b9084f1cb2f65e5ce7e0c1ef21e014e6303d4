@@ -1,0 +1,13 @@
+
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8äù…ß.
+Z
+java:S1444)"8Make this "public static seletedRecipesInfo" field final(™ĞâÓıÿÿÿÿ8¡€Û‚ß.
+?
+java:S2386)"Make this member "protected".(™ĞâÓıÿÿÿÿ8Â‚§…ß.
+Ÿ
+java:S1319)"}The type of the "seletedRecipesInfo" object should be an interface such as "List" rather than the implementation "ArrayList".(™ĞâÓıÿÿÿÿ8äù…ß.
+h
+java:S1192:"FDefine a constant instead of duplicating this literal "EVENT" 5 times.(Â½¦·ûÿÿÿÿ8ÆÉÏ€ß.
+€
+java:S1104)"^Make seletedRecipesInfo a static final constant or non-public and provide accessors if needed.(™ĞâÓıÿÿÿÿ8¡€Û‚ß.

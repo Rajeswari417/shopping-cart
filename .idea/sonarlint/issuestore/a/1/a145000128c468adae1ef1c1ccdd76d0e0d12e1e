@@ -1,0 +1,13 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Âƒ…ß.
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8·•ÿ„ß.
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8·•ÿ„ß.
+[
+java:S18543"9Remove this useless assignment to local variable "value".(µ¹Š˜ûÿÿÿÿ8°­Ù…ß.
+O
+java:S1128"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ8ààØ„ß.
+L
+java:S14813"*Remove this unused "value" local variable.(µ¹Š˜ûÿÿÿÿ8°­Ù…ß.

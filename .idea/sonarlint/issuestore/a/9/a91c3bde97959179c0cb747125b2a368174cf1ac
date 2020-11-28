@@ -1,0 +1,11 @@
+
+I
+java:S1602$",Remove useless curly braces around statement(¡¡í¸8Í–’ˆß.
+K
+java:S1121".Extract the assignment out of this expression.(×‡Ş8½Ò‰€ß.
+Z
+java:S1444"8Make this "public static shoppingRepository" field final(•À†øûÿÿÿÿ8½Ò‰€ß.
+€
+java:S1104"^Make shoppingRepository a static final constant or non-public and provide accessors if needed.(•À†øûÿÿÿÿ8½Ò‰€ß.
+R
+java:S2209%"5Change this instance-reference to a static reference.(¦•ˆÌ8Í–’ˆß.
